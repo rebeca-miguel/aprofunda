@@ -3,11 +3,11 @@
 # Conceitos aprendidos durante a semana:
 
 ## Tema
-Designi Patern e Boas Práticas.
+Design Patern e Boas Práticas.
 Entendendo que a aplicação de de padrões em projetos é importante para que a nossa aplicação ainda que extensa, seja ompreensível e dinámica, facilitando não só para o cliente mais também para futuras atualizações.
 Entretanto, isso acontece devido a Refatoração da API utilizando design pattern e melhoria de práticas.
 
-## O que é o Deseign Patterns:
+## O que é o Design Patterns:
 **São soluçoes reutilizaveis para problemas de designe de softwere que surgem repetidamente, ou seja, soluções comprovadas para problemas comuns.
 
 Existem uma grande diferança entre arquitetura e Design de softwere, que são:
